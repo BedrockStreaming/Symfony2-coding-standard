@@ -23,10 +23,10 @@ We also added to this project our own standard for our Symfony2 developments ent
     }
     ```
 
-3. Install dev dependencies
+3. Install dependencies
 
     ```shell
-    composer update --dev
+    composer update
     ```
 
 4. Create a `.coke` file a the root of the project who contain: 
