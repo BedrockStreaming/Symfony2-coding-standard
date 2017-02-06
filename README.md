@@ -32,13 +32,13 @@ We also added to this project our own standard for our Symfony2 developments ent
 4. Create a `.coke` file a the root of the project who contain: 
 
     ```shell
-    standard=vendor/m6web/symfony2-coding-standard/Symfony2
+    standard-path=vendor/m6web/symfony2-coding-standard/Symfony2
     ```
 
     or if you want to use our standard:
 
     ```shell
-    standard=vendor/m6web/symfony2-coding-standard/M6Web_Symfony2
+    standard-path=vendor/m6web/symfony2-coding-standard/M6Web_Symfony2
     ```
 
 5. Enjoy
